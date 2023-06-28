@@ -1,5 +1,5 @@
 # Kleanee_RegressionAnalysis
-This project aims to study the relationship between the Spending Score and Age (firstly introduced in my Clustering Project also available here, on my repositories). I chose two candidate models, and selected the one which fitted the best, using K-folds cross validation...
+This project aimed at studying the relationship between the Spending Score and Age (firstly introduced in my Clustering Project also available here, on my repositories). I chose two candidate models, and selected the one which fitted the best, using K-folds cross validation...
 
 
 SCOPE
